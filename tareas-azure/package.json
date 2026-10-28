@@ -1,8 +1,0 @@
-{
-  "name": "tareas-azure",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Lista de tareas frontend para practicar despliegues en Azure App Service",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=22" }
-}
